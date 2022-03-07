@@ -1,0 +1,12 @@
+*{
+    background-color: #fff;
+}
+
+.btn{
+   border-radius: 50%;
+}
+.head{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
